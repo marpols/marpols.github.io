@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Mariaelisa Polsinelli
     - name: Languages
-      value: English, German
+      value: English (Native), Italian (B2), French (A2/B1), Spanish (A2), German (A1)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: McGill University - McDonald Campus, Ste-Anne-de-Bellevue, Canada
+      year: 2027 (expected)
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +19,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: B.Sc. (Agr.)
+      institution: University of Guelph, Guelph, Canada
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Specialization in crop, horticulture and turfgrass science
+    - title: B.Sc. 
+      institution: University of Toronto - St. George, Toronto, Canada
+      year: 2016
+      description:
+        - Double major in computer science and linguistics
 
 - title: Experience
   type: time_table

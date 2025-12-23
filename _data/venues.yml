@@ -1,9 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+#Conferences
+"AgMIP":
+  url: https://agmip.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ASABE":
+  url: https://asabe.org/
+  color: 
 
-"Vision":
+"CGU":
   color: "#009f36"
+  url: https://cgu-ugc.ca/
+
+"CSAFM":
+  color: "#009f36"
+  url: https://csafm.ca/home/
+
+
+#Journals
+"ACS":
+  color: "#009f36"
+  url: https://pubs.acs.org/
+
+#Other:
+"AAFC":
+  color: 
+  url:
