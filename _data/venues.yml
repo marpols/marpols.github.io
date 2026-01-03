@@ -8,28 +8,32 @@
   color: "#335DED"
 
 "CGU":
-  color: "#C49423"
   url: https://cgu-ugc.ca/
+  color: "#C49423"
 
 "CSAFM":
-  color: "#61239E"
   url: https://csafm.ca/home/
+  color: "#61239E"
 
 "iCrop":
-  color: "#5BA43B"
   url: https://csafm.ca/home/
+  color: "#5BA43B"
 
 
 #Journals
-"ACS":
-  color: "#0052A6"
+"Agric. Sci. Technol.":
   url: https://pubs.acs.org/
+  color: "#0052A6"
 
 #Type
-"Conference":
-  color: "#484E5E"
+"Proceedings":
   url:
-
+  color: "#919DBD"
+  
 "Preprint":
-  color: "#B31B1B"
   url:
+  color: "#B31B1B"
+
+"In Review":
+  url:
+  color: "#8082BF"

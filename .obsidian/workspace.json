@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/repositories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "repositories"
             }
           },
           {
@@ -200,15 +200,21 @@
   },
   "active": "450512964a9e759b",
   "lastOpenFiles": [
+    "_site/assets/js/github-repos.js",
+    "assets/js/github-repos.js",
+    "assets/js/New Text Document.txt",
+    "_pages/publications.md",
+    "_pages/about.md",
+    "_site/assets/pdf/Polsinelli_AgMIP9.pdf",
+    "_site/assets/pdf/Polsinelli_AgMIP10.pdf",
+    "_site/assets/pdf/Polsinelli_ASABE25.pdf",
+    "_site/assets/pdf/Polsinelli_ASABE24.pdf",
+    "_site/assets/img/Screenshot 2026-01-02 at 20-14-40 Weather Dashboard – ONvegetables.png",
     "_pages/projects.md",
     "assets/pdf/Polsinelli_ASABE25.pdf",
     "assets/pdf/Polsinelli_AgMIP10.pdf",
     "assets/pdf/Polsinelli_ASABE24.pdf",
     "assets/pdf/Polsinelli_ASABE2025_final.pdf",
-    "assets/pdf/PolsinelliMariaelisa_AgMIP10.pdf",
-    "assets/pdf/Polsinelli_AgMIP9.pdf",
-    "assets/slides",
-    "assets/New folder",
     "_site/assets/img/Screenshot 2026-01-02 at 20-14-40 Weather Dashboard – ONvegetables-1400.webp",
     "_site/assets/img/Screenshot 2026-01-02 at 20-14-40 Weather Dashboard – ONvegetables-800.webp",
     "_site/assets/img/Screenshot 2026-01-02 at 20-14-40 Weather Dashboard – ONvegetables-480.webp",
@@ -216,14 +222,10 @@
     "lighthouse_results/mobile/pagespeed.svg",
     "lighthouse_results/desktop/pagespeed.svg",
     "_projects/Dashboard.md",
-    "_site/projects/Dashboard/index.html",
-    "_site/projects/Dashboard",
-    "_pages/about.md",
     "_posts/2025-03-26-plotly.md",
     "_site/assets/img/WeatherDashboard.png",
     "_site/assets/img/WeatherDashboard-1400.webp",
     "_site/assets/img/WeatherDashboard-800.webp",
-    "_site/assets/img/WeatherDashboard-480.webp",
     "_news/announcement_2.md",
     "_templates/post_template.md",
     "_templates/news_template.md",
@@ -241,7 +243,6 @@
     "_pages/news.md",
     "_pages/404.md",
     "_pages/talks.md",
-    "_pages/publications.md",
     "_pages/cv.md",
     "_pages/blog.md",
     "_projects/2_project.md"
