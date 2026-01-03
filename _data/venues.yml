@@ -1,27 +1,35 @@
 #Conferences
 "AgMIP":
   url: https://agmip.org/
-  color: "#00369f"
+  color: "#0D5918"
 
 "ASABE":
   url: https://asabe.org/
-  color: 
+  color: "#335DED"
 
 "CGU":
-  color: "#009f36"
+  color: "#C49423"
   url: https://cgu-ugc.ca/
 
 "CSAFM":
-  color: "#009f36"
+  color: "#61239E"
+  url: https://csafm.ca/home/
+
+"iCrop":
+  color: "#5BA43B"
   url: https://csafm.ca/home/
 
 
 #Journals
 "ACS":
-  color: "#009f36"
+  color: "#0052A6"
   url: https://pubs.acs.org/
 
-#Other:
-"AAFC":
-  color: 
+#Type
+"Conference":
+  color: "#484E5E"
+  url:
+
+"Preprint":
+  color: "#B31B1B"
   url:

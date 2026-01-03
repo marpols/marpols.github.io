@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "0f2ebf949ea57619",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e1a0ac562c32cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "450512964a9e759b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/about.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
+            }
+          },
+          {
+            "id": "efa507ca7c126710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-03-26-plotly.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-26-plotly"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "541d9a7c9095191b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2479652bf5645f15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a9d57ab905d274d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c41cc022ce794bf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c4b7a3a6f4471bfd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d4aa32c25ba37a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "56f0cd784e4710af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b06887a607b9571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lighthouse_results/mobile/pagespeed.svg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for pagespeed"
+            }
+          },
+          {
+            "id": "a3c2e8176f616306",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lighthouse_results/mobile/pagespeed.svg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from pagespeed"
+            }
+          },
+          {
+            "id": "59536441f8ee295f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95bb991d2efd7287",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1864a2be57a15c5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lighthouse_results/mobile/pagespeed.svg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of pagespeed"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "450512964a9e759b",
+  "lastOpenFiles": [
+    "_pages/projects.md",
+    "assets/pdf/Polsinelli_ASABE25.pdf",
+    "assets/pdf/Polsinelli_AgMIP10.pdf",
+    "assets/pdf/Polsinelli_ASABE24.pdf",
+    "assets/pdf/Polsinelli_ASABE2025_final.pdf",
+    "assets/pdf/PolsinelliMariaelisa_AgMIP10.pdf",
+    "assets/pdf/Polsinelli_AgMIP9.pdf",
+    "assets/slides",
+    "assets/New folder",
+    "_site/assets/img/Screenshot 2026-01-02 at 20-14-40 Weather Dashboard – ONvegetables-1400.webp",
+    "_site/assets/img/Screenshot 2026-01-02 at 20-14-40 Weather Dashboard – ONvegetables-800.webp",
+    "_site/assets/img/Screenshot 2026-01-02 at 20-14-40 Weather Dashboard – ONvegetables-480.webp",
+    "assets/img/Screenshot 2026-01-02 at 20-14-40 Weather Dashboard – ONvegetables.png",
+    "lighthouse_results/mobile/pagespeed.svg",
+    "lighthouse_results/desktop/pagespeed.svg",
+    "_projects/Dashboard.md",
+    "_site/projects/Dashboard/index.html",
+    "_site/projects/Dashboard",
+    "_pages/about.md",
+    "_posts/2025-03-26-plotly.md",
+    "_site/assets/img/WeatherDashboard.png",
+    "_site/assets/img/WeatherDashboard-1400.webp",
+    "_site/assets/img/WeatherDashboard-800.webp",
+    "_site/assets/img/WeatherDashboard-480.webp",
+    "_news/announcement_2.md",
+    "_templates/post_template.md",
+    "_templates/news_template.md",
+    "_posts/2015-05-15-images.md",
+    "_posts/2023-04-25-sidebar-table-of-contents.md",
+    "_posts/2022-12-10-giscus-comments.md",
+    "_posts/2015-10-20-math.md",
+    "_posts/2015-07-15-code.md",
+    "_posts/2015-03-15-formatting-and-links.md",
+    "_pages/repositories.md",
+    "_templates/project_template.md",
+    "_news/announcement_1.md",
+    "_news/announcement_3.md",
+    "_news/Untitled.md",
+    "_pages/news.md",
+    "_pages/404.md",
+    "_pages/talks.md",
+    "_pages/publications.md",
+    "_pages/cv.md",
+    "_pages/blog.md",
+    "_projects/2_project.md"
+  ]
+}

@@ -25,9 +25,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a PhD Student in the [Water Resource and Environmental Systems Lab](https://www.water-environment.lab.mcgill.ca/) under the co-supervision of [Dr. Zhiming Qi](https://www.mcgill.ca/bioeng/qi-zhiming) of McGill University and [Dr. Morteza Mesbah](https://profils-profiles.science.gc.ca/en/profile/morteza-mesbah) of Agriculture and Agri-food Canada. I previously completed a B. Sc. (Agr.) at the [University of Guelph](https://www.plant.uoguelph.ca/) specializing in plant agriculture and a B. Sc at the [University of Toronto](https://web.cs.toronto.edu/) where I double majored in computer science and linguistics. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My PhD research explores the intersection of process based crop models and machine learning to obtain agricultural insights and create decision support tools, with a current focus on applying these technologies to potato production in [Prince Edward Island](https://maps.app.goo.gl/FPmQFyeRn8EQUYPfA), Canada. I also have previous research experience in controlled environment agriculture and plant pathology. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In my free time I enjoy cycling, hiking, cooking, science fiction and fantasy (as books, films or video games), and knitting. You can reach me through mariaelisa.polsinelli[at]mail[dot]mcgill[dot]ca or mariaelisa.polsinelli[at]agr[dot]gc[dot]ca. I'm always happy to chat and connect!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
