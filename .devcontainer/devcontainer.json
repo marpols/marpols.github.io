@@ -13,9 +13,9 @@
   },
 
   // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint
-  //"postAttachCommand": "./bin/entry_point.sh",
+  "postAttachCommand": "./bin/entry_point.sh",
   //"postStartCommand": "./bin/entry_point.sh",
-  "postStartCommand": "bash -lc 'date | tee /tmp/postStart-ran.txt; ls -la bin | tee -a /tmp/postStart-ran.txt'"
+  //"postStartCommand": "bash -lc 'date | tee /tmp/postStart-ran.txt; ls -la bin | tee -a /tmp/postStart-ran.txt'"
 
 
   "customizations": {
