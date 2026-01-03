@@ -37,4 +37,6 @@
     "4000": { "label": "Jekyll", "onAutoForward": "openBrowser" },
     "0": { "onAutoForward": "ignore" }
 
+  }
+
 }
