@@ -42,32 +42,54 @@
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Agriculture and Agri-Food Canada Research Affiliate",
+      "position": "Research Assistant",
+      "startDate": "2020-09",
+      "endDate": "present",
+      "summary": "Application of process-based crop model STICS, traditional machine learning algorithms and reinforcement learning in order to analyse and solve irrigation decision making challenges for potato crops in Prince Edward Island, Canada",
+      "highlights": ["Crop Modelling", "Machine Learning", "Data Analysis", "GIS"]
+    }, 
+    {
+      "name": "Ontario Ministry of Agriculture, Food and Agribusiness",
+      "position": "Research Assistant",
+      "startDate": "2022-05",
+      "endDate": "2022-09",
+      "summary": "Implemented improvements to the Microsoft PowerBI weather dashboard, an interactive data visualization tool of weather and pest forecasts and trends created during previous employment with OMAFA",
+      "highlights": ["Data Analysis", "Microsoft Power BI"]
+    },
+    {
+      "name": "Ontario Ministry of Agriculture, Food and Agribusiness and the University of Guelph",
+      "position": "Research Assistant",
+      "startDate": "2020-05",
+      "endDate": "2020-09",
+      "summary": "Scouted Brassica and Allium crops in Southern Ontario for pests and disease and Established an interactive Microsoft Power BI data visualization tool for weather and pest forecasts and trends, enabling easier access and comparison between climate and pest trends",
+      "highlights": ["Crop Scouting", "Field Trials", "Data Collection", "Data Analysis", "Microsoft Power BI"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Canadian Society of Agriculture and Forest Meteorology",
+      "position": "Student Representative",
+      "url": "https://csafm.ca/home/",
+      "startDate": "2023",
+      "endDate": "2024"
+    },
+    {
+      "organization": "University of Guelph Efficient Dairy Genome Project",
+      "position": "Data Colletion",
+      "url": "https://genomedairy.ualberta.ca/",
+      "startDate": "2019-11",
+      "endDate": "2020-03",
+      "summary": "Volunteer data collector for the Efficient Dairy Genome Project, which seeks to \"Provide cost-effective, genomic-based methods to allow selection of dairy cattle with improved feed efficiency and lower methane emissions\"",
+      "highlights": ["Operate a Greenfeed system which measures gas fluxes from large, individual, ruminant animals as they eat.",
+    "Record observations of animal behaviour during feeding"]
     }
   ],
   "teaching": [
     {
       "position": "Teaching Assistant",
       "University": "McGill University",
-      "term": "F25",
+      "term": "2025 - Fall",
       "courseCode": "BREE 533",
       "courseTitle": "Water Quality Management",
       "url": "https://coursecatalogue.mcgill.ca/courses/bree-533/index.html",
@@ -77,7 +99,7 @@
     {
       "position": "Teaching Assistant",
       "University": "McGill University",
-      "term": "F24",
+      "term": "2024 - Fall",
       "courseCode": "BREE 533",
       "courseTitle": "Water Quality Management",
       "url": "https://coursecatalogue.mcgill.ca/courses/bree-533/index.html",
@@ -87,7 +109,7 @@
     {
       "position": "Teaching Assistant",
       "University": "McGill University",
-      "term": "W24",
+      "term": "2024 - Winter",
       "courseCode": "COMP 360",
       "courseTitle": "Algorithm Design",
       "url": "https://coursecatalogue.mcgill.ca/courses/comp-360/",
@@ -97,7 +119,7 @@
     {
       "position": "Teaching Assistant",
       "University": "McGill University",
-      "term": "F23",
+      "term": "2023 - Fall",
       "courseCode": "BREE 533",
       "courseTitle": "Water Quality Management",
       "url": "https://coursecatalogue.mcgill.ca/courses/bree-533/index.html",
@@ -107,11 +129,46 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "McGill Graduate Excellence Award",
+      "date": "2024 to 2026",
+      "awarder": "McGill University",
+      "amount": "$10,000",
+      "summary": "Merit-based departmental award recognizing outstanding graduate students."
+    },
+    {
+      "title": "Graduate Research Enhancement and Travel (GREAT) Awards",
+      "date": "2023 to 2025",
+      "awarder": "McGill University",
+      "amount": "$1,300",
+      "summary": "Awarded to a limited number of students to support conference attendance."
+    },
+    {
+      "title": "Graduate Student Mobility Award",
+      "date": "2023 and 2024",
+      "awarder": "McGill University",
+      "amount": "$1,500",
+      "summary": "Awarded to support travel for research exchange to Prince Edward Island."
+    },
+    {
+      "title": "CSAFM-SCMAF Student Travel Award",
+      "date": "2023",
+      "awarder": "Canadian Society of Agriculture and Forest Meteorology/ La société canadienne de météorologie agricole et forestière",
+      "amount": "$500",
+      "summary": "Competitive award granted to one student, based on abstract submission, to support conference participation."
+    }, 
+    {
+      "title": "RB Palmer Horticultural Scholarship",
+      "date": "2020",
+      "awarder": "University of Guelph",
+      "amount": "$1,000",
+      "summary": "Competitive award granted to one student with the highest cumulative average with interest in horticulture, plant breeding, or plant genetics"
+    },
+    {
+      "title": "William Godfrey Memorial",
+      "date": "2020",
+      "awarder": "University of Guelph",
+      "amount": "$1,500",
+      "summary": "Competitive award granted to one student with demonstrated interest in horticultural Science through work experience, volunteerism, and/or extracurricular involvement"
     }
   ],
   "service": [
@@ -123,16 +180,57 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "R",
+        "Python",
+        "SQL",
+        "PyTorch",
+        "Matplotlib",
+        "Seaborn",
+        "Pandas",
+        "Bash",
+        "ggplot2"
+      ]
+    },
+    {
+      "name": "GIS",
+      "level": "Master",
+      "icon": "fa-solid fa-earth-asia",
+      "keywords": [
+        "ArcGIS Pro",
+        "arcpy"
+      ]
+    },
+    {
+      "name": "Crop Models",
+      "level": "Master",
+      "icon": "fa-solid fa-seedling",
+      "keywords": [
+        "STICS",
+        "RZWQM2"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Master",
+      "icon": "fa-solid fa-chart-simple",
+      "keywords": [
+        "Microsoft Power BI",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Field and Lab Work",
+      "level": "Master",
+      "icon": "fa-solid fa-flask",
+      "keywords": [
+        "Microbiological Culture",
+        "Biological Water Sampling",
+        "Calibration and Maintenance of pH, DO Meters",
+        "Field Trial Experimental Design"
       ]
     }
   ],

@@ -11,12 +11,12 @@
   url: https://cgu-ugc.ca/
   color: "#C49423"
 
-"CSAFM":
+"CSAFM-CGU":
   url: https://csafm.ca/home/
   color: "#61239E"
 
-"iCrop":
-  url: https://csafm.ca/home/
+"iCROPM":
+  url: https://icropm2026.org/
   color: "#5BA43B"
 
 
@@ -34,6 +34,15 @@
   url:
   color: "#B31B1B"
 
-"In Review":
+"Under Review":
   url:
   color: "#8082BF"
+
+#Other
+"McGill":
+  url: https://www.mcgill.ca/
+  color: "#EE3E33"
+
+"AAFC":
+  url: https://agriculture.canada.ca/en
+  color: "#AF3C43"

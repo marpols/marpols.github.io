@@ -6,9 +6,8 @@ description:
 nav: true
 nav_order: 2
 display_categories:
-  - Oral
-  - Poster
   - Outreach
+  - Conference
 ---
 
 <!-- _pages/talks.md -->
@@ -17,19 +16,11 @@ display_categories:
 
 {% include bib_search.liquid %}
 
-## Oral
+## Conferences
 
 <div class="publications">
 
-  {% bibliography -f talks -q @*[category=oral]%}
-
-</div>
-
-## Poster
-
-<div class="publications">
-
-  {% bibliography -f talks -q @*[category=poster]%}
+  {% bibliography -f talks -q @*[category=conference]%}
 
 </div>
 
