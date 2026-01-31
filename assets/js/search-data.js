@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -36,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -414,23 +407,30 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-excited-to-have-received-a-travel-award-from-the-csafm-to-present-my-research-combining-a-process-based-model-with-machine-learning-for-potato-yield-prediction-in-prince-edward-island-canada-at-the-upcoming-joint-cgu-csafm-meeting",
+          title: '✨Excited to have received a travel award from the CSAFM to present my...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-looking-forward-to-presenting-our-research-combining-a-process-based-model-with-machine-learning-for-potato-yield-prediction-in-prince-edward-island-canada-at-the-upcoming-agmip9-meeting-in-new-york",
+          title: '🎉 Looking forward to presenting our research Combining a Process Based Model with...',
+          description: "",
+          section: "News",},{id: "news-our-paper-imbalanced-datasets-and-crop-yield-prediction-application-of-preprocessing-techniques-for-regression-tasks-in-agriculture-has-been-accepted-for-presentation-at-asabe-aim-24",
+          title: '🎉 Our paper Imbalanced Datasets and Crop Yield Prediction: Application of Preprocessing Techniques...',
+          description: "",
+          section: "News",},{id: "news-had-a-great-experience-participating-as-one-of-the-10-english-language-finalists-in-mcgill-39-s-3-minute-thesis-competition",
+          title: '✨ Had a great experience participating as one of the 10 English language...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/3MThesis/";
+            },},{id: "news-our-research-on-process-based-modelling-for-n2o-emission-estimation-at-the-field-scale-in-atlantic-canada-has-been-accepted-for-presentation-at-agmip10",
+          title: '🎉 Our research on Process-Based Modelling for N2O Emission Estimation at the Field-Scale...',
           description: "",
-          section: "News",},{id: "projects-bachelor-39-s-thesis",
-          title: 'Bachelor&amp;#39;s Thesis',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-weather-and-pest-report",
+          section: "News",},{id: "news-excited-to-be-presenting-our-research-climate-smart-irrigation-strategies-to-sustainably-maximize-potato-yield-in-rain-fed-agriculture-a-case-study-in-prince-edward-island-canada-at-asabe-csabe-aim-2025-in-toronto",
+          title: '🎉 Excited to be presenting our research Climate-Smart Irrigation Strategies to Sustainably Maximize...',
+          description: "",
+          section: "News",},{id: "news-looking-forward-to-presenting-our-poster-supplemental-irrigation-in-rainfed-potato-long-term-costs-benefits-and-insights-from-prince-edward-island-canada-at-icropm-2026",
+          title: '🎉 Looking forward to presenting our poster Supplemental Irrigation in Rainfed Potato: Long-Term...',
+          description: "",
+          section: "News",},{id: "projects-weather-and-pest-report",
           title: 'Weather and Pest Report',
           description: "Interactive Microsoft PowerBI Dashboard",
           section: "Projects",handler: () => {
@@ -447,7 +447,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Polsinelli-Mariaelisa_CV.pdf", "_blank");
         },
       },{
         id: 'social-bluesky',
